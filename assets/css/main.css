@@ -122,7 +122,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #0090c5;
+		color: #663399;
 		text-decoration: underline;
 	}
 
@@ -1511,7 +1511,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #0090c5;
+			border-color: #663399;
 		}
 
 	form input[type="text"],
@@ -1634,7 +1634,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		background: #0090c5;
+		background: #663399;
 		color: #fff;
 		text-decoration: none;
 		border-radius: 6px;
@@ -1938,21 +1938,21 @@ input, select, textarea {
 	}
 
 		#logo h1 {
-			background: #ff4486;
+			background: #663399;
 			color: #fff;
 			border-radius: 6px;
 			font-family: 'Oleo Script', serif;
-			font-weight: 400;
+			font-weight: 300;
 			padding: 0.25em 0.2em 0.25em 0.2em;
-			font-size: 3.25em;
+			font-size: 1.00em;
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
 		}
 
 		#logo span {
-			font-weight: 800;
-			line-height: 4.5em;
+			font-weight: 600;
+			line-height: 3.5em;
 			letter-spacing: 0.025em;
 			font-size: 0.9em;
 			vertical-align: middle;
@@ -2070,7 +2070,7 @@ input, select, textarea {
 				z-index: 1;
 			}
 
-/* Banner */
+/* w*/
 
 	#banner {
 		position: relative;
